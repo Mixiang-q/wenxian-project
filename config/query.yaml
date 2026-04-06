@@ -1,0 +1,75 @@
+# ============================================
+# 检索式配置文件 – 纳米线神经突触器件
+# 项目: 文献计量学课程项目
+# 版本: 0.1
+# 创建日期: 2026-03-20
+# ============================================
+
+version: "0.1"
+date: "2026-03-20"
+description: "初始检索式 – 针对纳米线神经突触器件研究前沿"
+
+# 研究问题四元组拆解
+research_question:
+  object: "纳米线"
+  method: "神经突触/神经形态器件"
+  context: "人工神经网络/类脑计算"
+  constraint: "近5年英文原创论文/综述"
+
+# 同义词分组（与 synonyms.yaml 保持一致）
+synonym_groups:
+  object:
+    - "nanowire*"
+    - "nanowires"
+    - "nanowire-based"
+    - "nanowire array*"
+    - "vertical nanowire*"
+    - "core-shell nanowire*"
+  method:
+    - "synaptic device*"
+    - "synaptic transistor*"
+    - "synaptic resistor*"
+    - "neuromorphic device*"
+    - "neuromorphic computing"
+    - "memristor*"
+    - "memristive device*"
+    - "artificial synapse*"
+    - "plasticity"
+    - "spike-timing-dependent plasticity"
+  context:
+    - "neural network*"
+    - "brain-inspired"
+    - "neuromorphic hardware"
+    - "in-memory computing"
+
+# 布尔检索表达式（可复现核心）
+boolean_expression: >
+  (nanowire OR "nanowires")
+  AND ("synaptic device" OR "artificial synapse" OR "neuromorphic device")
+  AND ("memristor" OR "synaptic transistor" OR "optoelectronic synapse")
+
+# 限定条件
+constraints:
+  time_window: [2021, 2025]          # 近5年
+  language: "English"
+  document_type:
+    - "Article"
+    - "Review"
+  databases:
+    - "Web of Science"
+    - "Scopus"
+    - "OpenAlex"
+  fields:                            # 检索字段
+    - "title"
+    - "abstract"
+    - "keywords"
+
+# 排除条件
+exclusion:
+  terms: []
+  reason: "暂无明确排除词，后续根据precision/recall抽样调整"
+
+# 质量检查目标
+quality_target:
+  min_precision: 0.80
+  min_recall: 0.75

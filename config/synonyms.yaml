@@ -1,0 +1,54 @@
+# ============================================
+# 同义词表 – 纳米线神经突触器件
+# 总术语数: 28
+# 版本: 0.1
+# ============================================
+
+# 概念组A: 纳米线（对象）
+nanowire:
+  - nanowire
+  - nanowires
+  - nanowire-based
+  - nanowire array
+  - nanowire arrays
+  - vertical nanowire
+  - core-shell nanowire
+  - semiconductor nanowire
+  - metal oxide nanowire
+
+# 概念组B: 神经突触/神经形态器件（方法）
+synaptic_device:
+  - synaptic device
+  - synaptic transistor
+  - synaptic resistor
+  - synaptic memristor
+  - artificial synapse
+  - electronic synapse
+  - neuromorphic device
+  - neuromorphic computing
+  - neuromorphic hardware
+  - memristor
+  - memristive device
+  - resistive switching
+  - plasticity
+  - synaptic plasticity
+  - optoelectronic synapse
+  - spike-timing-dependent plasticity
+  - STDP
+
+# 概念组C: 应用场景/背景
+context:
+  - neural network
+  - neural networks
+  - artificial neural network
+  - brain-inspired computing
+  - in-memory computing
+  - neuromorphic engineering
+  - pattern recognition
+  - spiking neural network
+
+# 同义词扩展规则
+rules:
+  - "使用星号(*)截词，如 nanowire* 包含 nanowires, nanowire-based"
+  - "同义词仅在各自概念组内部用 OR 连接，避免跨组 OR 导致范围爆炸"
+  - "后续根据检索结果可补充缩写、变体、常见拼写错误"
