@@ -1,0 +1,38 @@
+# 文献计量学项目配置文件
+# 主题：纳米线神经突触器件
+# 数据源：OpenAlex
+
+# 数据源配置
+data_source:
+  name: "openalex"
+  base_url: "https://api.openalex.org"
+
+# 检索参数
+query:
+  # 检索式：纳米线相关术语 AND 神经突触/神经形态相关术语
+  search_terms: "(nanowire OR nanowires) AND (synaptic OR neuromorphic OR memristor OR \"artificial synapse\" OR \"synaptic transistor\")"
+  
+  # 时间范围
+  from_year: 2020
+  to_year: 2025
+  
+  # 最大记录数
+  max_records: 5000
+
+# 分析参数
+analysis:
+  # 最小边权重（用于共现网络分析）
+  min_edge_weight: 3
+  
+  # 保留的 top 边数
+  top_edges: 100
+  
+  # 保留的 top 标签数
+  top_labels: 50
+
+# 输出配置
+output:
+  tables_dir: "outputs/tables"
+  figures_dir: "outputs/figures"
+  reports_dir: "reports"
+  data_dir: "data/processed"
