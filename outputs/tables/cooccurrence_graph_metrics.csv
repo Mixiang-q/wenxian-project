@@ -1,0 +1,2 @@
+n_nodes,n_edges,density,n_components,largest_component_ratio,network_type
+25,100,0.3333333333333333,1,1.0,cooccurrence

@@ -1,0 +1,101 @@
+source,target,weight
+Materials science,Nanotechnology,964
+Computer science,Materials science,765
+Computer science,Advanced Memory and Neural Computing,720
+Materials science,Advanced Memory and Neural Computing,661
+Materials science,Optoelectronics,613
+Computer science,Nanotechnology,609
+Computer science,Artificial intelligence,558
+Computer science,Engineering,522
+Nanotechnology,Advanced Memory and Neural Computing,515
+Computer science,Artificial neural network,491
+Neuromorphic engineering,Computer science,488
+Materials science,Engineering,488
+Neuromorphic engineering,Advanced Memory and Neural Computing,487
+Artificial intelligence,Advanced Memory and Neural Computing,480
+Artificial neural network,Advanced Memory and Neural Computing,477
+Nanotechnology,Optoelectronics,458
+Materials science,Electrical engineering,454
+Artificial neural network,Artificial intelligence,447
+Neuromorphic engineering,Artificial neural network,446
+Electrical engineering,Engineering,421
+Engineering,Advanced Memory and Neural Computing,412
+Advanced Memory and Neural Computing,Optoelectronics,411
+Neuromorphic engineering,Artificial intelligence,406
+Nanotechnology,Engineering,406
+Computer science,Electrical engineering,405
+Computer science,Optoelectronics,391
+Electrical engineering,Advanced Memory and Neural Computing,386
+Neuromorphic engineering,Materials science,375
+Materials science,Artificial intelligence,369
+Nanotechnology,Electrical engineering,368
+Materials science,Artificial neural network,345
+Materials science,Physics,327
+Materials science,Chemistry,312
+Materials science,Neuroscience and Neural Engineering,299
+Artificial intelligence,Engineering,290
+Computer science,Neuroscience and Neural Engineering,288
+Electrical engineering,Optoelectronics,288
+Computer science,Physics,283
+Neuromorphic engineering,Nanotechnology,282
+Nanotechnology,Artificial intelligence,278
+Advanced Memory and Neural Computing,Neuroscience and Neural Engineering,278
+Electrical engineering,Voltage,274
+Materials science,Voltage,264
+Neuromorphic engineering,Engineering,253
+Artificial neural network,Nanotechnology,252
+Physics,Advanced Memory and Neural Computing,251
+Nanotechnology,Neuroscience and Neural Engineering,251
+Advanced Memory and Neural Computing,Ferroelectric and Negative Capacitance Devices,251
+Artificial neural network,Engineering,250
+Electronic engineering,Advanced Memory and Neural Computing,250
+Computer science,Neuroscience,250
+Nanotechnology,Chemistry,250
+Computer science,Electronic engineering,249
+Advanced Memory and Neural Computing,Memristor,248
+Nanowire,Materials science,239
+Voltage,Advanced Memory and Neural Computing,239
+Neuromorphic engineering,Optoelectronics,237
+Nanotechnology,Physics,235
+Engineering,Optoelectronics,231
+Electronic engineering,Engineering,226
+Computer science,Voltage,225
+Neuroscience,Biology,225
+Neuromorphic engineering,Electrical engineering,223
+Computer science,Ferroelectric and Negative Capacitance Devices,223
+Transistor,Electrical engineering,217
+Nanowire,Nanotechnology,216
+Transistor,Materials science,215
+Physics,Optoelectronics,215
+Materials science,Electronic engineering,214
+Materials science,Neuroscience,214
+Nanowire,Advanced Memory and Neural Computing,213
+Artificial intelligence,Electrical engineering,210
+Advanced Memory and Neural Computing,Neural Networks and Reservoir Computing,206
+Computer science,Neural Networks and Reservoir Computing,206
+Advanced Memory and Neural Computing,Photoreceptor and optogenetics research,203
+Artificial neural network,Optoelectronics,202
+Voltage,Optoelectronics,201
+Computer science,Memristor,201
+Voltage,Engineering,200
+Artificial neural network,Electrical engineering,198
+Advanced Memory and Neural Computing,Neuroscience,198
+Computer science,Photoreceptor and optogenetics research,195
+Materials science,Ferroelectric and Negative Capacitance Devices,193
+Nanotechnology,Voltage,189
+Artificial intelligence,Optoelectronics,187
+Materials science,Photoreceptor and optogenetics research,186
+Materials science,Biology,186
+Transistor,Voltage,185
+Materials science,Memristor,184
+Computer science,Biology,182
+Engineering,Memristor,179
+Materials science,Conducting polymers and applications,178
+Electronic engineering,Memristor,176
+Materials science,Advanced Sensor and Energy Harvesting Materials,175
+Artificial neural network,Electronic engineering,173
+Neuromorphic engineering,Electronic engineering,173
+Engineering,Neuroscience and Neural Engineering,173
+Electronic engineering,Artificial intelligence,172
+Artificial neural network,Neural Networks and Reservoir Computing,171
+Computer science,Transistor,170

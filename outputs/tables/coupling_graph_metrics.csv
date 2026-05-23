@@ -1,0 +1,2 @@
+n_nodes,n_edges,density,n_components,largest_component_ratio,network_type
+122,100,0.013548299688389108,40,0.2459016393442623,coupling

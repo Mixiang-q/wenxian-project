@@ -23,15 +23,7 @@ wheels/
 .installed.cfg
 *.egg
 
-# Data
-data/raw/*
-data/processed/*
-outputs/tables/*
-outputs/figures/*
-!data/raw/.gitkeep
-!data/processed/.gitkeep
-!outputs/tables/.gitkeep
-!outputs/figures/.gitkeep
+
 
 # IDE
 .vscode/

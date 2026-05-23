@@ -1,0 +1,2 @@
+n_nodes,n_edges,density,n_components,largest_component_ratio,network_type
+51,100,0.0784313725490196,5,0.8235294117647058,co_citation
