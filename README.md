@@ -4,6 +4,39 @@
 
 本项目用于对"纳米线神经突触器件"领域进行文献计量分析，数据源为 OpenAlex。
 
+## 成员分工
+
+- 齐子豪（组长）统筹定稿：负责研究方案设计、整体进度统筹，整合全文内容，完成论文修改与最终定稿。
+- 张林凯文献搜集：负责数据库文献检索、文献去重筛选，整理研究现状，撰写文献综述。
+- 杨浩数据计量：负责数据清洗处理，使用计量软件完成可视化分析，制作研究图表、输出数据结果。
+- 王子周童总结校对：负责分析结果解读，撰写研究结论与展望，完成论文排版、校对及资料整理归档。
+
+## 图表展示
+
+### 图1 年发文趋势图
+
+<img src="images/annual_publication_trend.png" alt="年发文趋势图" width="900">
+
+### 图2 关键词共现聚类图
+
+<img src="images/cooccurrence_cluster.png" alt="关键词共现聚类图" width="900">
+
+### 图3 合作网络图
+
+<img src="images/coauthorship_cluster.png" alt="合作网络图" width="900">
+
+### 图4 国家合作网络图
+
+<img src="images/country_collaboration_network.png" alt="国家合作网络图" width="900">
+
+### 图5 共被引聚类图
+
+<img src="images/co_citation_cluster.png" alt="共被引聚类图" width="900">
+
+### 表1 Top 10代表文献表
+
+<img src="images/top10_representative_papers.png" alt="Top 10代表文献表" width="900">
+
 ## 项目结构
 
 ```
