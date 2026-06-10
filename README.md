@@ -15,27 +15,27 @@
 
 ### 图1 年发文趋势图
 
-![年发文趋势图](images/annual_publication_trend.png)
+![年发文趋势图](outputs/figures/Annual publication trend.png)
 
 ### 图2 关键词共现聚类图
 
-![关键词共现聚类图](images/cooccurrence_cluster.png)
+![关键词共现聚类图](outputs/figures/cooccurrence_cluster.png)
 
 ### 图3 合作网络图
 
-![合作网络图](images/coauthorship_cluster.png)
+![合作网络图](outputs/figures/coauthorship_cluster.png)
 
 ### 图4 国家合作网络图
 
-![国家合作网络图](images/country_collaboration_network.png)
+![国家合作网络图](outputs/figures/country_collaboration_edges.png)
 
 ### 图5 共被引聚类图
 
-![共被引聚类图](images/co_citation_cluster.png)
+![共被引聚类图](outputs/figures/co_citation_cluster.png)
 
 ### 表1 Top 10代表文献表
 
-![Top 10代表文献表](images/top10_representative_papers.png)
+![Top 10代表文献表](outputs/figures/top10_representative_papers.png)
 
 ## 项目结构
 
