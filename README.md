@@ -15,7 +15,7 @@
 
 ### 图1 年发文趋势图
 
-![年发文趋势图](outputs/figures/Annual publication trend.png)
+![年发文趋势图](outputs/figures/Annual_publication_trend.png)
 
 ### 图2 关键词共现聚类图
 
