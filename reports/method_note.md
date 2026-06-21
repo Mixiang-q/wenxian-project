@@ -71,4 +71,4 @@ python -m bmmini.pipeline --config config/query.yaml --use-sample
 ```
 
 ---
-*生成时间: 2026-05-21 23:42:28*
+*生成时间: 2026-06-21 20:22:39*

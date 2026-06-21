@@ -51,7 +51,8 @@ wenxian-project/
 │   └── figures/           # 输出图表
 ├── reports/               # 报告文档
 │   ├── method_note.md     # 方法说明
-│   └── result_interpretation_template.md  # 结果解读模板
+│   ├── result_interpretation_template.md  # 结果解读模板
+│   └── paper.md           # 学术论文
 ├── src/bmmini/            # 源代码模块
 │   ├── __init__.py
 │   ├── fetch_openalex.py  # OpenAlex数据获取
